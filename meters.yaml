@@ -1,0 +1,104 @@
+# Meters list
+
+electricity_main:
+  - V.Z81
+  - V.Z82
+  - H2.Z35
+  - H2.Z351
+  - H2.Z36
+  - H2.Z361
+
+local_generators:
+  - H1.Z20
+  - H1.ZE20
+  - V.Z84
+  - V.ZE84
+  - H1.Z310
+  - H2.Z311
+  - H3.Z312
+
+servers:
+  - H2.Z61
+  - H2.Z62
+  - H2.Z63
+  - H2.Z64
+  - H2.ZE64
+  - H2.Z65
+  - H2.ZE65
+  - H2.Z66
+  - H2.ZE66
+  - H2.Z67
+  - H2.ZE67
+  - H3.Z43
+  - H3.ZE43
+  - H3.Z44
+  - H3.ZE44
+  - H3.Z46
+  - H3.Z71
+
+cooling:
+  - V.K21
+  - H1.K11
+  - H1.K12
+  - H1.K14
+  - H1.K15
+  - H1.K16
+  - H2.K21
+
+heating:
+  - H1.W11
+  - H1.W12
+
+ventilation:
+  - H2.T.Z31
+  - H3.Z42
+  - H2.Z68
+  - H2.Z69
+  - H2.Z70
+
+workshops:
+  - H2.T.Z34
+  - H2.ZE74
+
+emission_lab:
+  - H1.Z15
+  - H1.Z28
+  - H1.Z17
+  - H1.Z29
+  - H1.Z10
+  - H1.Z13
+  - H1.Z14
+  - H1.Z16
+  - H1.Z11
+  - H1.Z12
+  - H1.Z24
+  - H1.Z25
+  - H1.Z19
+  - H1.Z23
+  - H1.Z18
+  - H1.Z21
+  - H1.Z22
+  - H1.Z26
+  - H1.Z27
+
+offices:
+  - H2.T.Z30
+  - H2.T.Z32
+  - H4.Z50
+  - H4.ZE51
+  - H4.Z51
+  - H4.ZE50
+
+design_studio:
+  - H2.T.Z33
+  - H3.Z40
+  - H3.ZE40
+  - H3.Z41
+  - H3.ZE41
+  - H3.Z45
+  - H3.Z47
+  - H3.Z48
+  - H3.Z49
+
+weather:
+  - WeatherStation.Weather

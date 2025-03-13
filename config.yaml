@@ -1,0 +1,8 @@
+# Path to full dataset time series
+datapath: '/path/to/uncompressed/data'
+
+# Path to reduced aggregated dataset
+reduced_datapath: '/path/to/uncompressed/reduced_data'
+
+issues_automatic_path: '/path/to/uncompressed/automatic_issues'
+issues_manual_path: '/path/to/uncompressed/manual_issues'
