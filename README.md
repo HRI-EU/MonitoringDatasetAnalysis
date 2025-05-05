@@ -9,6 +9,8 @@ pip install -r requirements.txt
 
 Furthermore, `config.yaml` should be configured to contain the respective paths to the data set.
 
+The file `issue_template.yml` outlines the format of issue files as found in the dataset.
+
 -----
 
 The `src` directory contains the following scripts used to create the figures and statistics for the publication accompanying the data set:

@@ -1,0 +1,8 @@
+H1.K11@gap@1532000040:  # Issue ID (<meter>@<issue type>@<beginning time stamp of issue>)
+  comment: gap from 2018-07-19T11:34:00Z to 2018-07-20T14:56:00Z  # user readable comment
+  correction: interpolate # correction type that was applied 
+  correction_params: {}   # correction parameters depending on method
+  reason: gap  # issue type (gap, zero, leap, lasting_leap, transformer_factor, errors)
+  reference: H1.K11  # meter URN
+  time_start: 1532000040  # start-time of the issue (first erroneous timestamp)
+  time_end: 1532098560  # end-time of the issue (last erroneous timestamp)
